@@ -9,7 +9,7 @@ import re
 
 class ReservationAgent:
     def __init__(self):
-        self.client = Together(os.getenv("TOGETHER_API_KEY"))
+        # self.client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         self.tools = ToolRegistry()
         self.db = RestaurantDB()
         self.register_tools()
