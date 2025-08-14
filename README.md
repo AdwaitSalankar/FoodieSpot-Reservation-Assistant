@@ -24,7 +24,7 @@ Built using Meta LLaMA 3.1–8B (via Together API), a custom tool-calling system
 
 ---
 
-🟠 Solution Design & Business Strategy document - Notion File
+🟠 Solution Design & Business Strategy document - [Notion File](https://www.notion.so/FoodieSpot-Use-Case-Document-1f83889a85478090a0dfe62fb2ee67d4#1f83889a854781b89045d52633986987)
 
 ---
 
